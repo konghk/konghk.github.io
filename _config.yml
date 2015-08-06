@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://konghk.github.io
+title: The Kong Tech Blogs
+tagline: Random musing about software and technologies
+description: My awesome new site
+paginate: 5
